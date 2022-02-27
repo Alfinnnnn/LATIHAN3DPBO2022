@@ -7,7 +7,15 @@ Saya Surya Alfin Maoludin 2001521 mengerjakan Latihan3
 		dispesifikasikan. Aamiin
     
 ## Desain
+<p> Program terdiri dari empat kelas yaitu: <br/> </p>
+<ol> 
+	<li>Processor : berisi atribut nama dan price
+	<li>Disk      : berisi atribut type, capacity dan price
+	<li>Ram       : berisi atribut capcity dan harga
+	<li>PC        : Memuat kelas Processor, disk dan ram
+</ol>
 
+<p> Masing-masing kelas akan berisi data yang nantinya akan dimuat dalam kelas PC dan kemudian ditampilkan. Dengan kata lain PC -- composition (mempunyai) --> kelas Processor, disk dan ram.
 
 ## ScreenShoot
 java <br>
