@@ -35,7 +35,8 @@ class Processor
         int getPrice(){
             return this->price;
         }
-
+        
+        //destruktor
         ~Processor(){
         }
 
