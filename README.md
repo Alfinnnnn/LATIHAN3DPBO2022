@@ -11,7 +11,7 @@ Saya Surya Alfin Maoludin 2001521 mengerjakan Latihan3
 
 ## ScreenShoot
 java <br>
-
+<img src = https://github.com/Alfinnnnn/LATIHAN3DPBO2022/blob/main/ss/java.png >
 <br/>
 c++ <br>
 <img src = https://github.com/Alfinnnnn/LATIHAN3DPBO2022/blob/main/ss/c%2B%2B.png >
