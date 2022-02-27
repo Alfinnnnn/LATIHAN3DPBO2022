@@ -20,4 +20,4 @@ php <br>
 <img src = https://github.com/Alfinnnnn/LATIHAN3DPBO2022/blob/main/ss/php.png >
 <br/>
 python <br>
-
+<img src = https://github.com/Alfinnnnn/LATIHAN3DPBO2022/blob/main/ss/python.png >
